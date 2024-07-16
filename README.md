@@ -6,13 +6,13 @@ My name is Prabhjot Kaur. I am a First Year Student of Bachelor of Technology (B
 
 ## Class 12 Details:
 
-| Subject    | Marks Obtained | Grade |
-| -------- | ------- | ------- |
-| English  | 93 | A+ |
-| Punjabi | 98 | A+ |
-| Physics    | 93 | A+ |
-| Chemistry | 91 | A+ |
-| Mathematics | 97 | A+ |
+| Subject    | Marks Obtained |
+| -------- | ------- |
+| English  | 93 |
+| Punjabi | 98 |
+| Physics    | 93 |
+| Chemistry | 91 |
+| Mathematics | 97 |
 | Total Percentage | 94.4% |
 
 
