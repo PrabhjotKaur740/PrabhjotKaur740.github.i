@@ -26,4 +26,15 @@ My name is Prabhjot Kaur. I am a First Year Student of Bachelor of Technology (B
 | Mathematics | 97 |
 | Total Percentage | 94.4% |
 
+## Additional Skills:-
+
+- Html
+- CSS
+- JavaScript
+
+ ### Conntact
+
+ Email:- xyz
+ 
+
 
