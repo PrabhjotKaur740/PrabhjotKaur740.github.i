@@ -6,7 +6,7 @@ My name is Prabhjot Kaur. I am a First Year Student of Bachelor of Technology (B
 
 ## Class 10 Details:
 
-| Subject    | Marks Obtained |
+| Subject Name | Marks Obtained |
 | -------- | ------- |
 | English  | 100 |
 | Punjabi | 150 |
@@ -17,7 +17,7 @@ My name is Prabhjot Kaur. I am a First Year Student of Bachelor of Technology (B
 
 ## Class 12 Details:
 
-| Subject    | Marks Obtained |
+| Subject Name | Marks Obtained |
 | -------- | ------- |
 | English  | 93 |
 | Punjabi | 98 |
