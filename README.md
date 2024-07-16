@@ -2,12 +2,12 @@
 # **Prabhjot Kaur**
 ## MyPortfolio
 
-| Subject    | Total Marks | Marks Obtained |
+| Subject    | Marks Obtained | Grade |
 | -------- | ------- | ------- |
-| English  | 100 | 93 |
-| Punjabi | 100 | 98 |
-| Physics    | 100 | 93 |
-| Chemistry | 100 | 91 |
-| Mathematics | 100 | 97 |
+| English  | 93 | A+ |
+| Punjabi | 98 | A+ |
+| Physics    | 93 | A+ |
+| Chemistry | 91 | A+ |
+| Mathematics | 97 | A+ |
 
 
