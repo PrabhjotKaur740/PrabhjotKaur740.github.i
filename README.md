@@ -32,7 +32,7 @@ My name is Prabhjot Kaur. I am a First Year Student of Bachelor of Technology (B
 - CSS
 - JavaScript
 
- ### Conntact
+ ### Contact
 
  Email:- xyz
  
