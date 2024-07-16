@@ -2,10 +2,12 @@
 # **Prabhjot Kaur**
 ## MyPortfolio
 
-| Month    | Savings |
+| Subject    | Total Marks | Marks Obtained |
 | -------- | ------- |
-| January  | $250    |
-| February | $80     |
-| March    | $420    |
+| English  | 100 | 93 |
+| Punjabi | 100 | 98 |
+| Physics    | 100 | 93 |
+| Chemistry | 100 | 91 |
+| Mathematics | 100 | 97 |
 
 
