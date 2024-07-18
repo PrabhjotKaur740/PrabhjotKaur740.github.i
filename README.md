@@ -91,5 +91,12 @@ Topics:-
 - Difference between Fake smile and real smile.
 - Facial expressions
 
+### Day 5- 16-07-2024
+
+### English Activities
+
+On the day 5 of our induction program we are having some english activities in which quij compeition is held between the five teams, i am in team E. Various General Knowledge questions were asked related to Sports, National and International affairs, some great personalities etc. I am having a great experience and i really enjoy participating in the quiz.
+![alt txt](quiz.jpg)
+
   
   
