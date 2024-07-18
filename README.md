@@ -95,8 +95,25 @@ Topics:-
 
 ### English Activities
 
-On the day 5 of our induction program we are having some english activities in which quij compeition is held between the five teams, i am in team E. Various General Knowledge questions were asked related to Sports, National and International affairs, some great personalities etc. I am having a great experience and i really enjoy participating in the quiz.
-![alt txt](quiz.jpg)
+On the Day 5 of induction program we were having english activities and quiz compeititions. Engaging in English activities during induction was a fantastic way to break the ice and connect with fellow students. Participating in english activities not only boosted my confidence but also fostered a sense of camaraderie among the classmates. English activities during induction were instrumental in preparing us for academic writing and critical thinking throughout the college journey.Through English activities, we learned to express our ideas clearly and succinctly, which proved invaluable in every aspect of our academic pursuits. There are so many questions in quiz compeitition related to sports, National and international achievements and recognising the great personalities
+Overall, the English activities during college induction not only enriched our language skills but also fostered a welcoming atmosphere where learning and personal development thrived.
+
+### Day 6-  17-07-2024
+
+Today we are having classes:
+
+#### Class 1-
+
+The First class is of Mathematics in which we revise all integration formulas and solve sums using those formulas.
+
+#### Class 2-
+
+The second class is of UHV- 
+## **UHV- UNIVERSAL HUMAN VALUES** 
+
+!{alt txt](humanvalue.png)
+
+
 
   
   
