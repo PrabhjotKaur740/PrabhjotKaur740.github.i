@@ -111,7 +111,7 @@ The First class is of Mathematics in which we revise all integration formulas an
 The second class is of UHV- 
 ## **UHV- UNIVERSAL HUMAN VALUES** 
 
-!{alt txt](humanvalue.png)
+![alt txt](humanvalue.png)
 
 
 
