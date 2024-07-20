@@ -269,11 +269,11 @@ Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corp
 
 ### Essential Softskills for Students:-
 
-![](softskills.jpg)
+![](softskills.jfif)
 
 ### Its all about C
 
-![](c.jpg)
+![](C.jpg)
 
 
 
