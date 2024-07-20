@@ -256,9 +256,10 @@ Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the pu
 
 ### Day 8- 19-07-2024
 
-| Speaker | 
+| RESOURCE PERSON |
 | -------- |
-| Er. Kanwardeep Grewal |
+| DR. Harwinder Singh |
+
 
 
 #### Transition- Campus to Corporate
@@ -287,11 +288,15 @@ Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corp
 - Most important thing- NETWORKING
 - Grrom yourself
 
-| Guest |
-| ------- |
-| Dr. Jaswinder Singh |
+| RESOURCE PERSON |
+| -------- |
+| Dr. Jawinder Singh |
 
+Dr. Jaswinder singh is the incharge of IAPT. He is a great presonality. He is awarded with shiksha ratan. He said that everything in this world is connected with mathematics. He also give suitable example. He intoduces the concept of induction and conduction also. Where in classes these topics seems very tough and boring, he explains them in very easy and fun way. He also gave us truck to know how many bones are in human body and the number of bones in each part of our body.
 ![](drJaswinderSingh.jpg)
+
+## Department visit:-
+
 
 
 
