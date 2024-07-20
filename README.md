@@ -1,5 +1,5 @@
 # Prabhjot Kaur
-Greetings everyone. My name is Prabhjot Kaur. I am pursuing Bachelor of Technology (Btech) in Computer Science (CSE) at Guru Nanak Dev Engineering College. I am interested in exploring and creating new things and learn high coding skills using which i can create something new and helpful. I am also intersted in reading novel books and doing some curriculam activities also. I am really excited of my engineering plus coding journey and hope i will give my hundred percent in my field and came out to be one of the best Coder and Engineer. I hope after four years of my journey i will make my institute proud of me.
+Greetings everyone. My name is Prabhjot Kaur. I am pursuing Bachelor of Technology (Btech) in Computer Science (CSE) at Guru Nanak Dev Engineering College, Ludhiana. I am interested in exploring and creating new things and learn high coding skills using which i can create something new and helpful. I am also intersted in reading novel books and doing some extra curriculam activities also. I am really excited of my engineering plus coding journey and hope i will give my hundred percent in my field and came out to be one of the best Coder and Engineer. I hope after four years of my journey i will make my institute proud of me.
 
 ## Senior Secondary Examination details:-
 
@@ -155,7 +155,8 @@ Value and skills go hand in hand both value and skills are required. There is an
 - accepting
 - understanding
 - Practicing to live in a relationship
- ### Understanding to live in a relatioship
+  
+ ### Understanding to live in a relationship
 
  - Relationship is buttering oneself(I) and otherself (I2)
  - Felings in relationships
@@ -222,6 +223,7 @@ Benefits of opting NCC includes:-
 - NDA
 - Besides being position in armed forces, NCC also provides us life skills that serves us whole life.
 - The life skills provided by NCC are:-
+  
 ![](lifeskills.jpg)
 
 
