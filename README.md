@@ -212,7 +212,17 @@ When the imagination is in harmony with the natural acceptance, there is harmony
 | 18-07-2024 | DR. Harwinder Singh | NCC |
 
 Dr. Harwinder singh introduces us of the esteem benefits of opting NCC. He listed down the physical as well mental benefits of NCC. He explained us that how NCC not only gives us the army training but also helps us in shaping our personality, buliding confidence and communicating skills, enhancing leadershipn qualities and team work and the most important thing, learning disciplain. 
+
 ![](ncc.jpg)
+
+Benefits of opting NCC includes:-
+- SAHARA Scholarship for NCC cadets
+- Expenses of uniforms and camps are beared by the government
+- Chance to get selected in armed forces
+- NDA
+- Besides being position in armed forces, NCC also provides us life skills that serves us whole life.
+- The life skills provided by NCC are:-
+![](lifeskills.jpg)
 
 
 
