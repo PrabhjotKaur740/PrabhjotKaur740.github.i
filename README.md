@@ -259,10 +259,10 @@ Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the pu
 | Speaker | 
 | -------- |
 | Er. Kanwardeep Grewal |
-| Jaswinder Singh |
+
 
 #### Transition- Campus to Corporate
-Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corporate*** and  ***Building a Future Beyond the Classroom***. In addition with technical skills, Soft skills are also improtant. Without soft skills our technical skills are Zero.  
+Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corporate*** and  ***Building a Future Beyond the Classroom***. In addition with technical skills, Soft skills are also improtant. Without soft skills our technical skills are Zero. We also saw a role play by our seniors related to interviews that teaches us about how to behave during interviews and how to balance our confidence in front of interviewer.  
 **What are soft skills?**
 - Basic etiquatee
 - Personality traits
@@ -286,7 +286,13 @@ Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corp
 - Don't use fillers in communication.
 - Most important thing- NETWORKING
 - Grrom yourself
-  
+
+| Guest |
+| ------- |
+| Dr. Jaswinder Singh |
+
+![](drJaswinderSingh.jpg)
+
 
 
 
