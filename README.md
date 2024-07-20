@@ -195,11 +195,11 @@ All the problems of a human being are due to assumptions wuithoiut  knowing, and
 
 ### Understanding harmony in Self
 
-The activities of the self can be seen in terms of desire, thought and expectations. These powers are inexhaustible, and the activities are continuous. The activiities of imaging, analyzing-comparing and selecting-tasting are always goiing on, whether we aware of them or not.
-If you imagination is guded by your natural acceptance, you are sure to be in harmony and happiness within. You are SElf-orgarnise
+The activities of the self can be seen in terms of desire, thought and expectations. These powers are inexhaustible, and the activities are continuous. The activiities of imaging, analyzing-comparing and selecting-tasting are always going on, whether we aware of them or not.
+If your imagination is guided by your natural acceptance, you are sure to be in harmony and happiness within. You are Self-orgarnised.
 
-#### Ensuring harmony in the SElf by way of SElf-exploration
- To achieve the harmony in the SElf, we need to self-exploration. In the process, we need to:
+#### Ensuring harmony in the Self by way of Self-exploration
+ To achieve the harmony in the Self, we need to self-exploration. In the process, we need to:
  - Know our natural acceptance
  - Be aware of our imagination
  - Find out the source of imagination
@@ -231,6 +231,8 @@ Benefits of opting NCC includes:-
 | 18-07-2024 | Er. Jasvir Singh Grewal | NSS |
 
 Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
+
+![](nss2.jpg)
 
 #### Work Done by NSS:-
 - Afforestation
