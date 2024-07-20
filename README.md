@@ -251,7 +251,7 @@ Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the pu
 - Volunteer"s interaction with the slum dwellers and villagers expose them to the realities of life and bring about a change in their social perception.
 - It helps in developing positive attitude, self-confidence, courage & patience.
 - It helps in developing his / her skill to perform certain jobs, quality of an organiser, an administrator and development of personality as a whole.
-  - He / she gets opportunities to see the community closely and thus gets an experience of human nature in relation to his / her environment.
+- He / she gets opportunities to see the community closely and thus gets an experience of human nature in relation to his / her environment.
 - Gets the opportunity to meet the people from different walks of life.
 - He/she gets the opportunity to participate in various National / State level programme such as National Integration, Motivational Lamps, value oriented self-development camps, Adventure camps, workshops. Youth exhibition, cultural programmes etc.
 
