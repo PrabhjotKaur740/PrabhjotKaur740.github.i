@@ -151,7 +151,7 @@ Value and skills go hand in hand both value and skills are required. There is an
 *Leading to harmony*: it ultimately needs to promote harmony within the individual, among human beings and with the entier nature.
 
 ## Understanding the harmony in family
-- appretiating
+- appreciating
 - accepting
 - understanding
 - Practicing to live in a relationship
@@ -162,6 +162,18 @@ Value and skills go hand in hand both value and skills are required. There is an
  - Feelings can be recognised
  - Fulfillment of feelings
 
+#### Type of Feelings
+- Trust
+- Respect
+- Affection
+- Care
+- Glory
+- Gratitude
+- Respect
+
+### Day 7- 18-07-2024
+
+On the Day 7 of induction program the first class of UHF inwhich learn about the following things.
 ## Understanding the Human Being
 
 So what is Human being? The proposal of human being is the coexistence of the Self and the Body. Self is what we term as "I" and Body is what we see with our eyes.
@@ -175,7 +187,27 @@ The other way to see the difference between the difference between the two is in
 
 The Self has the activity of desire, thought and expectations which are continuous. On the other hand, any activity of the Body, like eating, walking, etc. is temporary in time.
 
-### Day 7- 18-07-2024
+### The response of the Self and Body
+
+The response of the Body is based on recognising and fulfilling  whereas the response of the Self is based on knowing, assuming, recognising and fullfilling. The recognition and fulfillment of the Body is definite, while that of Self is determined by the activity of assuming. As assumption changes, the recognition and fulfillment by the Self also changes.
+All the problems of a human being are due to assumptions wuithoiut  knowing, and the solution lies in ensuring the activity of kowing. And this is possible only through education-sanskar.
+
+### Understanding harmony in Self
+
+The activities of the self can be seen in terms of desire, thought and expectations. These powers are inexhaustible, and the activities are continuous. The activiities of imaging, analyzing-comparing and selecting-tasting are always goiing on, whether we aware of them or not.
+If you imagination is guded by your natural acceptance, you are sure to be in harmony and happiness within. You are SElf-orgarnise
+
+#### Ensuring harmony in the SElf by way of SElf-exploration
+ To achieve the harmony in the SElf, we need to self-exploration. In the process, we need to:
+ - Know our natural acceptance
+ - Be aware of our imagination
+ - Find out the source of imagination
+ - Work out a way to sort out outr imagination till it is fully in line with our natural acceptance
+When the imagination is in harmony with the natural acceptance, there is harmony in the Self. This harmony is happiness.
+
+![alt txt](self.jpg)
+
+
 
 
 
