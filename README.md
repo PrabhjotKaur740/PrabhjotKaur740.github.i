@@ -49,7 +49,7 @@ Pr. Dr. Sehijpal singh welcomed us to the GNDEC campus and intoduce us about the
 3. Thank you
 4. I love you
 
-Afer every mistake and lie we should be sorry to the god immediately. We can lie to everyone but we cannot lie to ourselves and God. We ourselves knows the truth behind our lie. As Newton's third law of states that every action has an equal and opposite reaction, similarly what we give to th world and nature, we always receive the same thing in return. So be 
+Afer every mistake and lie we should be sorry to the god immediately. We can lie to everyone but we cannot lie to ourselves and God. We ourselves knows the truth behind our lie. As Newton's third law of states that every action has an equal and opposite reaction, similarly what we give to the world and nature, we always receive the same thing in return. So be 
 
 ### Day 2- 11-07-2024
 
@@ -106,6 +106,7 @@ The second class is of Mathematics in which we revise Differentiation formulas a
 
 ## ALways Remember
 - Give your 100%
+- Do what you love, love what you do
 - Should have Efficiency and Compatibility
 
 ## Communication Skills
@@ -135,10 +136,53 @@ The First class is of Mathematics in which we revise all integration formulas an
 
 #### Class 2-
 
-The second class is of UHV- 
+The second class is of UHV (Universal Human Values)- 
 ## **UHV- UNIVERSAL HUMAN VALUES** 
 
 ![alt txt](humanvalue.png)
+
+### Need for Value Education
+All human beings aspire for a happy, fulfilling life. For a human being, there are two important questions pertaining to this:-
+- What is my aspiration?
+- How to fullfill y aspiration
+The purpose of education is to facilate the dvelopment of clarity on the aspiration and adequate competence to actualize it.
+For this it is essential to understand what a happ, fulfilling and successful life is- what is really valuable for human being: What is purpose of human being? It is also necessary to learn the skills to actualise our aspiration. This is the skill domain.
+Value and skills go hand in hand both value and skills are required. There is an essentiaal complementary between the two. But more importantly, the prime need of value educationis to understand human aspirations, to discover what is truly valuable in life; and work out the program for its fulfillment.
+*Leading to harmony*: it ultimately needs to promote harmony within the individual, among human beings and with the entier nature.
+
+## Understanding the harmony in family
+- appretiating
+- accepting
+- understanding
+- Practicing to live in a relationship
+ ### Understanding to live in a relatioship
+
+ - Relationship is buttering oneself(I) and otherself (I2)
+ - Felings in relationships
+ - Feelings can be recognised
+ - Fulfillment of feelings
+
+## Understanding the Human Being
+
+So what is Human being? The proposal of human being is the coexistence of the Self and the Body. Self is what we term as "I" and Body is what we see with our eyes.
+
+### The needs of the Self and Body
+
+The need of Self is happiness (e.g. feeeling of respect leading to happiness) while the nedd of body is physical facility (e.g. food). All the need related to the Self are continuous in time while all the needs related to the Body are required for a limited time. This is one way we can differentiate between the need of the SElf and the need of the Body.
+The other way to see the difference between the difference between the two is in erms of quantity and quality. The need for food is quantitavie in nature. We can identify the quality of the food needed to nurture our body.
+
+### The Activities of the Self and Body
+
+The Self has the activity of desire, thought and expectations which are continuous. On the other hand, any activity of the Body, like eating, walking, etc. is temporary in time.
+
+### Day 7- 18-07-2024
+
+
+
+
+
+
+
 
 
 
