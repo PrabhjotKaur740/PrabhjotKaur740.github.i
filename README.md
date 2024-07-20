@@ -29,8 +29,6 @@ Realization of Glimpses of a Golden India in the real(rural) India which lives a
 - To inculcate moral, ethical, spiritual values in education at all levels.
 
 
-
-## Activity Report of Student Induction Program 2024
 ![](induction.jpg)
 
 ### Day 1 - 10-07-2024
