@@ -31,6 +31,7 @@ Realization of Glimpses of a Golden India in the real(rural) India which lives a
 
 
 ## Activity Report of Student Induction Program 2024
+![](induction.jpg)
 
 ### Day 1 - 10-07-2024
 
