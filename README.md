@@ -254,6 +254,29 @@ Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the pu
 - Gets the opportunity to meet the people from different walks of life.
 - He/she gets the opportunity to participate in various National / State level programme such as National Integration, Motivational Lamps, value oriented self-development camps, Adventure camps, workshops. Youth exhibition, cultural programmes etc.
 
+### Day 8- 19-07-2024
+
+| Speaker | 
+| -------- |
+| Er. Kanwardeep Grewal |
+| Jaswinder Singh |
+
+#### Transition- Campus to Corporate
+Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corporate*** and  ***Building a Future Beyond the Classroom***. In addition with technical skills, Soft skills are also improtant. Without soft skills our technical skills are Zero.  
+**What are soft skills?**
+- Basic etiquatee
+- Personality traits
+
+### Essential Softskills for Students:-
+
+![](softskills.jpg)
+
+### Its all about C
+
+![](c.jpg)
+
+
+
 
 
 
