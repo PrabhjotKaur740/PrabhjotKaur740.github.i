@@ -212,7 +212,7 @@ When the imagination is in harmony with the natural acceptance, there is harmony
 | -------- | -------- | ------- |
 | 18-07-2024 | DR. Harwinder Singh | NCC |
 
-Dr. Harwinder singh introduces us of the esteem benefits of opting NCC. He listed down the physical as well mental benefits of NCC. He explained us that how NCC not only gives us the army training but also helps us in shaping our personality, buliding confidence and communicating skills, enhancing leadershipn qualities and team work and the most important thing, learning disciplain. 
+Dr. Harwinder singh is the ANO OF NCC. He introduces us of the esteem benefits of opting NCC. He listed down the physical as well mental benefits of NCC. He explained us that how NCC not only gives us the army training but also helps us in shaping our personality, buliding confidence and communicating skills, enhancing leadershipn qualities and team work and the most important thing, learning disciplain. 
 
 ![](ncc.jpg)
 
@@ -225,6 +225,38 @@ Benefits of opting NCC includes:-
 - The life skills provided by NCC are:-
   
 ![](lifeskills.jpg)
+
+| DATE | RESOURCE PERSON | TOPIC |
+| -------- | -------- | ------- |
+| 18-07-2024 | Er. Jasvir Singh Grewal | NSS |
+
+Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
+
+![](nss2.jpg)
+
+#### Work Done by NSS:-
+- Afforestation
+- AIDS awareness
+- Blood donation camps
+- cleaniness of our environment
+- Disaster Manangement etc.
+  
+#### Benefits of NSS:-
+- Personality Development.
+- Preference in Admission / Employment.
+- National Integration camp, Adventure Programme, State level as well as National Level programme.
+- It helps in acquiring leadership qualities and democratic attitude.
+- It provides diversified opportunities to students in colleges and universities to develop their personality through community service.
+- It developer a sense of involvement in the task of nation building.
+- Volunteer"s interaction with the slum dwellers and villagers expose them to the realities of life and bring about a change in their social perception.
+- It helps in developing positive attitude, self-confidence, courage & patience.
+- It helps in developing his / her skill to perform certain jobs, quality of an organiser, an administrator and development of personality as a whole.
+  - He / she gets opportunities to see the community closely and thus gets an experience of human nature in relation to his / her environment.
+- Gets the opportunity to meet the people from different walks of life.
+- He/she gets the opportunity to participate in various National / State level programme such as National Integration, Motivational Lamps, value oriented self-development camps, Adventure camps, workshops. Youth exhibition, cultural programmes etc.
+
+
+
 
 
 
