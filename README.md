@@ -144,17 +144,18 @@ The second class is of UHV (Universal Human Values)-
 All human beings aspire for a happy, fulfilling life. For a human being, there are two important questions pertaining to this:-
 - What is my aspiration?
 - How to fullfill your aspiration?
-The purpose of education is to facilate the dvelopment of clarity on the aspiration and adequate competence to actualize it.
-For this it is essential to understand what a happ, fulfilling and successful life is- what is really valuable for human being: What is purpose of human being? It is also necessary to learn the skills to actualise our aspiration. This is the skill domain.
-Value and skills go hand in hand both value and skills are required. There is an essentiaal complementary between the two. But more importantly, the prime need of value educationis to understand human aspirations, to discover what is truly valuable in life; and work out the program for its fulfillment.
-*Leading to harmony*: it ultimately needs to promote harmony within the individual, among human beings and with the entier nature.
+
+The purpose of education is to facilitate the development of clarity on the aspiration and adequate competence to actualize it.
+For this it is essential to understand what a happy, fulfilling and successful life is- what is really valuable for human being: What is purpose of human being? It is also necessary to learn the skills to actualise our aspiration. This is the skill domain.
+Value and skills go hand in hand. Both value and skills are required. There is an essentiaal complementary between the two. But more importantly, the prime need of value education is to understand human aspirations, to discover what is truly valuable in life; and work out on the program for its fulfillment.  
+*Leading to harmony*: It ultimately needs to promote harmony within the individual, among human beings and with the entier nature.
 
 ## Understanding the harmony in family
 - appreciating
 - accepting
 - understanding
 - Practicing to live in a relationship
-- 
+ 
 ### Understanding to live in a relationship
 
  - Relationship is buttering oneself(I) and otherself (I2)
