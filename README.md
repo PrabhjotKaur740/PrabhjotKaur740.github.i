@@ -16,6 +16,19 @@ Greetings everyone. My name is Prabhjot Kaur. I am pursuing Bachelor of Technolo
 # Guru Nanak Dev Engineering College:-
 ![alt](gne.jpg)
 
+## Vision
+Realization of Glimpses of a Golden India in the real(rural) India which lives and abounds in its villages. GNDEC will excel nationally and distinguish itself as a recognized pre-eminent leader to serve this 70% Brotherhood through its socioeconomic upliftment by exposure of the havenots to Engg. & Technology thereby grooming them as technically competent and intellectually-vital Graduates through practically focused quality learning experiences, and thus assuring productive Careers for them.
+
+## Mission
+- Upliftment of Rural Students through technical education.
+- Respond to local societal needs by developing selected 'targeted research projects'.
+- Quality training programs in need based modern technology.
+- To maintain state-of-the-art infrastructure in laboratories.
+- To promote culture of self-employment.
+- To impart non-formal education to unemployed youth.
+- To inculcate moral, ethical, spiritual values in education at all levels.
+
+
 
 ## Activity Report of Student Induction Program 2024
 
