@@ -275,6 +275,21 @@ Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corp
 
 ![](C.jpg)
 
+### First Impression 
+#### ABC of first impression:-
+- Appearance
+- Behaviour
+- Communication
+
+#### Key points
+- It takes 7 seconds to form first impression.
+- Don't use fillers in communication.
+- Most important thing- NETWORKING
+- Grrom yourself
+  
+
+
+
 
 
 
