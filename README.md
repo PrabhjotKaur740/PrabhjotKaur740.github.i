@@ -232,7 +232,7 @@ Benefits of opting NCC includes:-
 
 Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the purpose of NSS society and the work being done by the NSS society of the college campus. NSS provides the opprotunity to serve the society and to save the environment by planting trees and cleaning waste. Planting tree help in improving the Air Quality Index (ATQ) of the environment.
 
-![](nss2.jpg)
+![](nss.jpg)
 
 #### Work Done by NSS:-
 - Afforestation
