@@ -46,8 +46,9 @@ The beginning of my college journey starts with listening and reciting kirtan at
 Pr. Dr. Sehijpal singh welcomed us to the GNDEC campus and intoduce us about the campus facilities and benefits. The director of Nankana Sahib Education Trust highlighted that Guru Nanak Dev Engineering College was established to honor Nanakana Sahib, the birthplace of Guru Nanak Dev ji. itwas founded with the goal of addressing economic backwarddness through technology. The foundation stone of the college was laid in 1956. The vision of college is to admit 70% rural students to benefit them with the advancement of technology. Er. Jiwandeep Singh who is serving as a PCS officer advice us to never wait for the oppprotunity to come to you, grap the opportunity. We should learn to grab the opportunity whenever we get chance. Never let it go. SSP Rajeshwar Singh encouraged us to always walk onto the path of good deeds and helping others. Every good deed  and every bad deed we do always count. He encouraged us to embrace four essential phrases: 
 1. I am Sorry
 2. Please forgive me
-3. Thank yo
+3. Thank you
 4. I love you
+
 Afer every mistake and lie we should be sorry to the god immediately. We can lie to everyone but we cannot lie to ourselves and God. We ourselves knows the truth behind our lie. As Newton's third law of states that every action has an equal and opposite reaction, similarly what we give to th world and nature, we always receive the same thing in return. So be 
 
 ### Day 2- 11-07-2024
