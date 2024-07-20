@@ -21,8 +21,21 @@ Greetings everyone. My name is Prabhjot Kaur. I am pursuing Bachelor of Technolo
 
 ### Day 1 - 10-07-2024
 
-The beginning of my college journey starts with listening and reciting kirtan at the Gurdwara Sahib of the College campus. It was a positive and great experience to receive the blessings before stating the new jouney. After that we were made to sit in the auditorium and listening to the experience and journey of the great alumni of our college. They light up
-the students with their powerful thoughts and experiences. We listen very motivational and inspirational speeches from them and it gave me a great push to work hard in my college journey. Overall, it was a wonderful day and i am excited to see what the future holds.  
+The beginning of my college journey starts with listening and reciting kirtan at the Gurdwara Sahib of the College campus. It was a positive and great experience to receive the blessings before stating the new jouney. After that we wre made to sit in the auditorium and then we listen to the speeches given by the guests of day 1. The guests of Day 1 of induction program were:-
+
+| Sr. No. | Guest Name |
+| -------- | ------- |
+| 1. | Pr. Dr. Sehijpal Singh |
+| 2. | NSET Dir. S. Inderpal Singh |
+| 3. | Er. Jiwandeep Singh |
+| 4. | SSP Rajeshwar Singh |
+
+Pr. Dr. Sehijpal singh welcomed us to the GNDEC campus and intoduce us about the campus facilities and benefits. The director of Nankana Sahib Education Trust highlighted that Guru Nanak Dev Engineering College was established to honor Nanakana Sahib, the birthplace of Guru Nanak Dev ji. itwas founded with the goal of addressing economic backwarddness through technology. The foundation stone of the college was laid in 1956. The vision of college is to admit 70% rural students to benefit them with the advancement of technology. Er. Jiwandeep Singh who is serving as a PCS officer advice us to never wait for the oppprotunity to come to you, grap the opportunity. We should learn to grab the opportunity whenever we get chance. Never let it go. SSP Rajeshwar Singh encouraged us to always walk onto the path of good deeds and helping others. Every good deed  and every bad deed we do always count. He encouraged us to embrace four essential phrases: 
+1. I am Sorry
+2. Please forgive me
+3. Thank yo
+4. I love you
+Afer every mistake and lie we should be sorry to the god immediately. We can lie to everyone but we cannot lie to ourselves and God. We ourselves knows the truth behind our lie. As Newton's third law of states that every action has an equal and opposite reaction, similarly what we give to th world and nature, we always receive the same thing in return. So be 
 
 ### Day 2- 11-07-2024
 
@@ -104,7 +117,7 @@ Today we are having classes:
 
 #### Class 1-
 
-The First class is of Mathematics in which we revise all integration formulas and solve sums using those formulas.
+The First class is of Mathematics in which we revise all integration formulas and solve the sums using those formulas.
 
 #### Class 2-
 
