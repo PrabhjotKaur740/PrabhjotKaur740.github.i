@@ -12,6 +12,8 @@ Greetings everyone. My name is Prabhjot Kaur. I am pursuing Bachelor of Technolo
 | Mathematics | 97 |
 | Total Percentage | 94.4% |
 
+[View my Blog](studentrepo.md)
+
 
 # Guru Nanak Dev Engineering College:-
 ![alt](gne.jpg)
