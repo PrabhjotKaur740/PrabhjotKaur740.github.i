@@ -290,9 +290,9 @@ Dr. Jaswinder singh is the incharge of IAPT. He is a great presonality. He is aw
 To generate competent professionals to become part of the industry and research organizations at the national and international levels.
 
 #### Department Mission
-a. Providing a strong theoretical and practical background across the computer science discipline with an emphasis on software development.
-b. Imparting the skills necessary to continue education to grow professional.
-c. Empowering the youth in rural communities with computer education.
+a. Providing a strong theoretical and practical background across the computer science discipline with an emphasis on software development.  
+b. Imparting the skills necessary to continue education to grow professional.  
+c. Empowering the youth in rural communities with computer education.  
 d. Inculcating professional behavior, strong ethical values, innovative research capabilities and leadership abilities.
 
 ### Two Societies/clubs under Computer Science Department:-
@@ -300,5 +300,5 @@ d. Inculcating professional behavior, strong ethical values, innovative research
 1. CSI- Computer society of India
 2. Data Science Club
 
-Along with that professors also gives us details about the placements and training cells of campus. The highest package goes upto 51 lakhs. Then we get information about the examination system of computer science department. After the enlightening session, we had the opportunity to visit the computer lab.
+Along with that,our professors also gave us details about the placements and training cells of campus. The highest package goes upto 51 lakhs. Then we get information about the examination system of computer science department. After the enlightening session, we had the opportunity to visit the computer lab.
 
