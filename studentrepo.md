@@ -278,7 +278,7 @@ Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corp
 | -------- |
 | Dr. Jawinder Singh |
 
-Dr. Jaswinder singh is the incharge of IAPT. He is a great presonality. He is awarded with shiksha ratan. He said that everything in this world is connected with mathematics. He also give suitable example. He intoduces the concept of induction and conduction also. Where in classes these topics seems very tough and boring, he explains them in very easy and fun way. He also gave us truck to know how many bones are in human body and the number of bones in each part of our body.  
+Dr. Jaswinder singh is the incharge of IAPT. He is a great presonality. He is awarded with shiksha ratan. He said that everything in this world is connected with mathematics. He also give suitable example. He intoduces the concept of induction and conduction also. Where in classes these topics seems very tough and boring, he explains them in very easy and fun way. He also gave us trick to remember how many bones are in human body and which part of the body have how many bones.  
 
 ![](drJaswinderSingh.jpg)
 
@@ -301,4 +301,7 @@ d. Inculcating professional behavior, strong ethical values, innovative research
 2. Data Science Club
 
 Along with that,our professors also gave us details about the placements and training cells of campus. The highest package goes upto 51 lakhs. Then we get information about the examination system of computer science department. After the enlightening session, we had the opportunity to visit the computer lab.
+
+### Day 9- 22-07-2024
+
 
