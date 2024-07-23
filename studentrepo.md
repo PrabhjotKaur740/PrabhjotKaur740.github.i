@@ -304,4 +304,16 @@ Along with that,our professors also gave us details about the placements and tra
 
 ### Day 9- 22-07-2024
 
+| RESOURCE PERSON |
+| -------- |
+| Dr. SB Singh |
+
+First of all, Dr. S.B. singh performs an activitymin which we all were ask to write down our name, Branch, Section, Father's Name, Mother's Name, Phone number, Parent's Phone number,address, Desires, achievemnets, srengths, weaknesses, motive etc. on a page and after that those pages were collected from us by Ncc cadets on duty. After this activity, Dr. S.B. singh gave us life lessons. He motivated us to remain consistent and dedicated towards our dreams. Key points i could able to grasp from his insights are: 
+1. Every small step towards your dream is a leap of faith in yourself.
+2. Fuel your ambition with determination, there's no limit to what you can achieve.
+3. Stay focused, and surround yourself with positivity.
+
+
+
+
 
