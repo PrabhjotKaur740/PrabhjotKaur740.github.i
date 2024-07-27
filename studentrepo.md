@@ -307,11 +307,59 @@ Along with that,our professors also gave us details about the placements and tra
 | RESOURCE PERSON |
 | -------- |
 | Dr. SB Singh |
+| Dr. Pushpinder Singh |
 
 First of all, Dr. S.B. singh performs an activitymin which we all were ask to write down our name, Branch, Section, Father's Name, Mother's Name, Phone number, Parent's Phone number,address, Desires, achievemnets, srengths, weaknesses, motive etc. on a page and after that those pages were collected from us by Ncc cadets on duty. After this activity, Dr. S.B. singh gave us life lessons. He motivated us to remain consistent and dedicated towards our dreams. Key points i could able to grasp from his insights are: 
 1. Every small step towards your dream is a leap of faith in yourself.
 2. Fuel your ambition with determination, there's no limit to what you can achieve.
 3. Stay focused, and surround yourself with positivity.
+
+Dr. Pushpinder Singh explained type of learners to us:
+## Type of learners:-
+1. Visual
+2. Auditory
+3. Kinesthetic
+He advised us to do SMART work instead of HARD work. Full form of SMART is:
+- S: Specific
+- M: Measurement
+- A: Achievement
+- R: Realistic
+- T: Time
+He instructed us to always compete with ownself. He told us to learn from nature the qualities of self management and flexibility like honey bees in Bamboo trees. He told us to always be grounded at the times of problem like bamboo trees bent during thundrstorms while the other trees who stand straight fall down and broke.
+
+After that we were given some information about the Causmic Club of our college:
+
+### CAUSMIC CLUB
+#### Vision
+To learn something from everything in its physical essence; the essence, which is equally enlightening and dark.
+
+#### Mission
+The club members, believe in rational and reason-based thinking and reasoning and wish to promote a culture of critical thinking. We strive to provide a platform for students from all departments for sharing conscience about universe so that a community of innovators is cherished.
+
+### Day - 10  23-07-2024
+On the Day 10 of induction program we were having classes.
+The first class is of Mathematics in which we learn partial fraction method of integration and Mehods of finding the solution of differential equation of first order & first degree.
+The seconds class is of Chemistry in which we revise basics of organic chemistry, Inorganic chemistry and Physical chemistry.
+
+### Day - 11 24-07-2024
+| RESOURCE PERSON |
+| -------- |
+| Mr. Guaravdeep Singh |
+
+Mr. Gauravdeep Singh is National award holder and a very affectionate personality. He is the owner of "IOC". He told us about his whole life and success journey. He belong to a very middle class background but he never let that thing stuck in his way of success. He told us that how he identify his actual talent after getting fail in his 12th. He identify that he is good in speaking and he uses his talent in his life journey and become successful.
+
+| RESOURCE PERSON |
+| -------- |
+| Er. Lakhveer Singh |
+
+Er. Lakhveer Singh is the Coordinator of CML 
+
+### ***CML- CENTER FOR MULTI-FACETED LEARNING**
+
+CML provides the students with e-learning (NPTEL-SWAYAM), Personality Development and Enterpreneurship Capsule Courses. It also provides courses for students aspiring to join armed forces. Apart from regular professional learning, CML brings the students an opportunity to prepare for various entrance exmas like GATE, P.S.U, Civil Service examination like U.P.S.C along with Employment Enhancement Programs.
+
+
+
 
 
 
