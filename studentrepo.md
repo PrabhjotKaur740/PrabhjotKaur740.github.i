@@ -369,6 +369,18 @@ So the 12th day is the Day of discovery, creativity and Growth!
 
 ### **Day 13- 26-07-2024 - The end of Induction Program**
 
+#### The Power of Meditation
+Worry, anxiety, and stress can be more than distractions. Constantly replaying in your mind daily problems and fears can affect your mental and physical health. Controlling your attention as you meditate can help you feel more relaxed and at peace. And this peacefulness often lasts far beyond the meditation itself. So when stress appears hours later, you have the means to redirect it. 
+Meditation lets you become more aware and more purposeful about your actions. It teaches you how to respond, rather than react, to situations in your life. Meditation sounds simple. But it takes discipline to remain still in body and mind. You have to block out the world around you and quiet your thoughts. You also need to practice at least 10 to 20 minutes a day to get the most out of your meditation.  
+**The benefits of meditation include:**
+- Lower blood pressure
+- Decreased pain
+- Better immune system function
+- Better mood and brain function
+
+![](meditation.jpg)
+
+
 
 
 
