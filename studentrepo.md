@@ -16,7 +16,7 @@ Realization of Glimpses of a Golden India in the real(rural) India which lives a
 
 ![](induction.jpg)
 
-### Day 1 - 10-07-2024
+### **Day 1 - 10-07-2024**
 
 The beginning of my college journey starts with listening and reciting kirtan at the Gurdwara Sahib of the College campus. It was a positive and great experience to receive the blessings before stating the new jouney. After that we were made to sit in the auditorium and then we listen to the speeches given by the guests of day 1. The guests of Day 1 induction program were:-
 
@@ -35,7 +35,7 @@ Pr. Dr. Sehijpal singh welcomed us to the GNDEC campus and intoduce us about the
 
 Afer every mistake and lie we should be sorry to the god immediately. We can lie to everyone but we cannot lie to ourselves and God. We ourselves knows the truth behind our lie. As Newton's third law of motion states that every action has an equal and opposite reaction, similarly what we give to the world and nature, we always receive the same thing in return. 
 
-### Day 2- 11-07-2024
+### **Day 2- 11-07-2024**
 
 **On the second day of induction program the guests were :-**
 
@@ -59,7 +59,7 @@ The Key Points I grasp from today's speakers are:
 2. Persistence
 3. Patience
 
-### Day 3- 12-07-2024
+### **Day 3- 12-07-2024**
 
 On the third day of induction program we are having classes. The first class is of Canva and in this class Our Seniors from Causmic Club gives us information about the Canva, using which we can create wonderful presentations, logos, templates, cards, banners etc. They explain and help us to understand the Canva Step by Step and gives us task to create the banner for Caumic Club and the banner i made by the learning is :-  
 
@@ -68,7 +68,7 @@ On the third day of induction program we are having classes. The first class is 
 The second class is of Mathematics in which we revise Differentiation formulas and solve sums of Differentiation. Overall the second day is full of learing and useful day.
 
 
-### Day 4- 15-04-2024
+### **Day 4- 15-04-2024**
 
 **The Speakers of the fourth Day of Induction Program were :-**
 
@@ -76,7 +76,7 @@ The second class is of Mathematics in which we revise Differentiation formulas a
 | -------- | ------- |
 | 1.  | Dr. Randhir Singh |
 | 2. | Dr. Pyare Lal Garg |
-| 3.    | Mr. Sony Goyal |
+| 3. | Mr. Sony Goyal |
 | 4. | Mr. Pancham |
 
 
@@ -103,14 +103,14 @@ The second class is of Mathematics in which we revise Differentiation formulas a
 - Difference between Fake smile and real smile.
 - Facial expressions
 
-### Day 5- 16-07-2024
+### **Day 5- 16-07-2024**
 
 ### English Activities
 
 On the Day 5 of induction program we were having english activities and quiz compeititions. Engaging in English activities during induction was a fantastic way to break the ice and connect with fellow students. Participating in english activities not only boosted my confidence but also fostered a sense of camaraderie among the classmates. English activities during induction were instrumental in preparing us for academic writing and critical thinking throughout the college journey.Through English activities, we learned to express our ideas clearly and succinctly, which proved invaluable in every aspect of our academic pursuits. There are so many questions in quiz compeitition related to sports, National and international achievements and recognising the great personalities.  
 Overall, the English activities during college induction not only enriched our language skills but also fostered a welcoming atmosphere where learning and personal development thrived.
 
-### Day 6-  17-07-2024
+### **Day 6-  17-07-2024**
 
 Today we were having classes:
 
@@ -157,7 +157,7 @@ Value and skills go hand in hand. Both value and skills are required. There is a
 - Gratitude
 - Respect
 
-### Day 7- 18-07-2024
+### **Day 7- 18-07-2024**
 
 On the Day 7 of induction program the first class of UHF inwhich learn about the following things.
 ## Understanding the Human Being
@@ -240,13 +240,11 @@ Dr. Jasvir Singh Grewal is the coordinator of NSS. He introduces us about the pu
 - Gets the opportunity to meet the people from different walks of life.
 - He/she gets the opportunity to participate in various National / State level programme such as National Integration, Motivational Lamps, value oriented self-development camps, Adventure camps, workshops. Youth exhibition, cultural programmes etc.
 
-### Day 8- 19-07-2024
+### **Day 8- 19-07-2024**
 
 | RESOURCE PERSON |
 | -------- |
 | DR. Harwinder Singh |
-
-
 
 #### Transition- Campus to Corporate
 Er. Kanwardeep Grewal mam intorduces us about ***The Journey from Campus to Corporate*** and  ***Building a Future Beyond the Classroom***. In addition with technical skills, Soft skills are also improtant. Without soft skills our technical skills are Zero. We also saw a role play by our seniors related to interviews that teaches us about how to behave during interviews and how to balance our confidence in front of interviewer.  
@@ -302,7 +300,7 @@ d. Inculcating professional behavior, strong ethical values, innovative research
 
 Along with that,our professors also gave us details about the placements and training cells of campus. The highest package goes upto 51 lakhs. Then we get information about the examination system of computer science department. After the enlightening session, we had the opportunity to visit the computer lab.
 
-### Day 9- 22-07-2024
+### **Day 9- 22-07-2024**
 
 | RESOURCE PERSON |
 | -------- |
@@ -336,12 +334,12 @@ To learn something from everything in its physical essence; the essence, which i
 #### Mission
 The club members, believe in rational and reason-based thinking and reasoning and wish to promote a culture of critical thinking. We strive to provide a platform for students from all departments for sharing conscience about universe so that a community of innovators is cherished.
 
-### Day - 10  23-07-2024
+### **Day 10 - 23-07-2024**
 On the Day 10 of induction program we were having classes.
 The first class is of Mathematics in which we learn partial fraction method of integration and Mehods of finding the solution of differential equation of first order & first degree.
 The seconds class is of Chemistry in which we revise basics of organic chemistry, Inorganic chemistry and Physical chemistry.
 
-### Day - 11 24-07-2024
+### **Day 11 - 24-07-2024**
 | RESOURCE PERSON |
 | -------- |
 | Mr. Guaravdeep Singh |
@@ -361,6 +359,17 @@ CML provides the students with e-learning (NPTEL-SWAYAM), Personality Developmen
 ### MISSION & VISION
 
 Centre for Multi-Faceted Learning aims at promoting thye holistic development of students. The focus of this center is to hone the communication skills, interpersonal skills, problem solving skills and further develop the overall personality of students. Guiding student towards building a successful career by identifying their fields of interest and providing them sufficient training for compeititive examinations is one of the targeted tasks to be held under this facility.
+
+### **Day 12 - 25-07-2024**
+
+The Day 12 of the Induction Program is Guided by Mr. Arvind Dhingra, Director of STEP and Incharge of Technical Activity Committee, who illuminated paths to varous courses at GNDEC, empowering students to make informed decisions. Inspired by Gurmel Sharnagar, celebrated Poet, Teacher, Theatre Artist, and Play Director, who wove a tapestry of creativity with his words from books like "Sukraat" and "Chlde Chlde".
+Talents unfolded as students took Center stage, showcasing their remarkable skills! Emotional Intelligence Insights followed by Er. Gurvinder Singh, alumus of our college and representative of Simon Fraser University, Canada, connecting the dots between heart and mind.
+After theses wonderful insights at Auditorium, we were engaged in a Mathematics Test.
+So the 12th day is the Day of discovery, creativity and Growth!
+
+### **Day 13- 26-07-2024 - The end of Induction Program**
+
+
 
 
 
