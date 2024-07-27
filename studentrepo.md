@@ -354,9 +354,14 @@ Mr. Gauravdeep Singh is National award holder and a very affectionate personalit
 
 Er. Lakhveer Singh is the Coordinator of CML 
 
-### ***CML- CENTER FOR MULTI-FACETED LEARNING**
+### **CML- CENTER FOR MULTI-FACETED LEARNING**
 
 CML provides the students with e-learning (NPTEL-SWAYAM), Personality Development and Enterpreneurship Capsule Courses. It also provides courses for students aspiring to join armed forces. Apart from regular professional learning, CML brings the students an opportunity to prepare for various entrance exmas like GATE, P.S.U, Civil Service examination like U.P.S.C along with Employment Enhancement Programs.
+
+### MISSION & VISION
+
+Centre for Multi-Faceted Learning aims at promoting thye holistic development of students. The focus of this center is to hone the communication skills, interpersonal skills, problem solving skills and further develop the overall personality of students. Guiding student towards building a successful career by identifying their fields of interest and providing them sufficient training for compeititive examinations is one of the targeted tasks to be held under this facility.
+
 
 
 
