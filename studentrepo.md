@@ -378,7 +378,7 @@ Meditation lets you become more aware and more purposeful about your actions. It
 - Better immune system function
 - Better mood and brain function
 
-![](meditation.jfif)
+![](meditation.jpg)
 
 
 
